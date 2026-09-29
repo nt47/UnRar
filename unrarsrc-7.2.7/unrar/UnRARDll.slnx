@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+    <BuildType Name="release_nocrypt" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UnRARDll.vcxproj" Id="e815c46c-36c4-499f-bbc2-e772c6b17971" />
+</Solution>
