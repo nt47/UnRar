@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Example/Example.vcxproj" Id="6b5edeff-2f2d-4ae6-a2e7-e9f77e30bd72">
+    <BuildDependency Project="UnRar/UnRar.vcxproj" />
+  </Project>
+  <Project Path="UnRar/UnRar.vcxproj" Id="6affe699-f30c-452a-adb7-3f1727e79aab" />
+</Solution>
